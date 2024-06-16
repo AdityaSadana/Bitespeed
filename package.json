@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.ts",
   "scripts": {
-    "start": "ts-node-esm app.ts",
+    "start": "./start_server.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
